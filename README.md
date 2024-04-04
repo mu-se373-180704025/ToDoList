@@ -20,3 +20,4 @@ Adding additional features such as priority or category to tasks, allowing users
 Adding filtering or sorting functionality based on the completion status of tasks, enabling users to manage their tasks more effectively.
 
 This simple to-do list application serves as a basic example of developing modern Android applications with Jetpack Compose and can be extended to build more complex and functional applications upon it.
+
